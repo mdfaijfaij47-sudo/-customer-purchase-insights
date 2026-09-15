@@ -1,15 +1,9 @@
 # Customer Purchase Insights Analysis
 
 ## Project Overview
+This project analyzes customer buying behavior using Microsoft Excel to identify customer segments, purchasing patterns, and factors associated with bike purchases.
 
-This project analyzes customer buying behavior using Microsoft Excel
-to identify customer segments, purchasing patterns, and factors
-associated with bike purchases.
-
-The analysis covers 1,027 customer records and focuses on understanding
-which customer groups show stronger purchase behavior and how the
-business can use these insights for targeted marketing strategies.
-
+The analysis covers 1,027 customer records and examines customer demographics, income, occupation, region, commute distance, and purchase behavior to identify high-potential customer segments and develop targeted marketing recommendations.
 ## Business Objective
 
 The objective of this analysis is to understand:
